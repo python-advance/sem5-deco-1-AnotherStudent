@@ -45,4 +45,4 @@ def memorized(func):
 
 # С выбором
 Разработка фрагмента веб-приложения, позволяющего фиксировать в журнале (текстовом файле) действия пользователя.
-https://github.com/AnotherStudent/blogSample
+https://github.com/python-advance/sem5-deco-1-AnotherStudent/tree/master/lab2
